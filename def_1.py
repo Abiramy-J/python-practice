@@ -8,7 +8,7 @@ def deposit(balance,amount):
         print("amount must be greater than 0")
         return balance
 
-#====git testin===
+#====git testing===
 
 
 def withdraw(balance,amount):
