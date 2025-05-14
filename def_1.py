@@ -8,8 +8,6 @@ def deposit(balance,amount):
         print("amount must be greater than 0")
         return balance
 
-#====git testing===****
-
 
 def withdraw(balance,amount):
     if amount<=balance:
